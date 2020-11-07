@@ -11,6 +11,5 @@ for(i=0;i<n;i++)
 scanf("%d",ptr+i);
 for(i=0;i<n;i++)
 printf("%d",*(ptr+i));
-printf("Let have few changes");
-
+printf("having changes on hunny branch");
 }
